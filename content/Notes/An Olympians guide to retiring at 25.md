@@ -1,1 +1,0 @@
-https://www.nytimes.com/2018/02/24/opinion/sunday/sasha-cohen-olympics-pyeongchang.html

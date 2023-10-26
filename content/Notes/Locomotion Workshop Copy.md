@@ -1,1 +1,0 @@
-[Locomotion Workshop for Weightlifters Tickets, Sat, Jan 21, 2023 at 10:30 AM | Eventbrite](https://www.eventbrite.com/e/locomotion-workshop-for-weightlifters-tickets-433221586427?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)

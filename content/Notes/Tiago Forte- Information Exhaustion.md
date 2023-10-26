@@ -1,1 +1,0 @@
-# Information Exhaustion has actual effects on the body

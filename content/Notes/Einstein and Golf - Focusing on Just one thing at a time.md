@@ -1,5 +1,0 @@
-# Einstein and Golf - Focusing on Just one thing at a time
-
-The first lesson covered chipping and putting and the professional soon realised that his celebrated pupil wasn't nearly as skilled with his hands as with his mind. Still, desperate to help, he kept issuing further instructions every time Einstein failed to make contact with the ball, causing the great man to become increasingly confused and frustrated.
-
-Finally, he asked to be handed a few balls which the instructor duly did, albeit with a puzzled look. Whereupon Einstein threw all the balls at the young man and shouted, "Catch!" Waving his arms furiously, the professional failed to catch a single ball. Einstein paused a moment, raised his finger, and said: "Young man, when I throw you one ball, you catch it. But, when I throw you four balls, you catch nothing! So when you teach, make only one point at a time!"

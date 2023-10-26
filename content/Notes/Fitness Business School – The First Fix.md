@@ -1,1 +1,0 @@
-https://patrigsby.com/fitness-business-school-the-first-fix/

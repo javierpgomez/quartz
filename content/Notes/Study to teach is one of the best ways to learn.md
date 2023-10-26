@@ -1,1 +1,0 @@
-# Study to teach is one of the best ways to learn

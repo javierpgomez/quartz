@@ -1,1 +1,0 @@
-![[Notes/Kevin Wernli on Cognitive Functional Therapy.mp4]]

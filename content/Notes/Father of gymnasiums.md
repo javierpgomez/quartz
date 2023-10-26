@@ -1,1 +1,0 @@
-But it is often a German, Friedrich Ludwig Jahn, who is credited as the father of gymnastics and gym equipment, designing parallel bars and the balance beam in the early 19th Century.

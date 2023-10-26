@@ -1,1 +1,0 @@
-# The secret to self control is better optimizing your environment 

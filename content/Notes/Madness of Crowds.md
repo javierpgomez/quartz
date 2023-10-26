@@ -1,1 +1,0 @@
-https://en.m.wikipedia.org/wiki/Extraordinary_Popular_Delusions_and_the_Madness_of_Crowds

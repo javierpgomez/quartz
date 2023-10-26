@@ -1,1 +1,0 @@
-Max Ehrmann’s “Desiderata” poem, wildly-popular in the early 1970s: “If you compare yourself with others, you may become vain or bitter, for always there will be greater and lesser persons than yourself.

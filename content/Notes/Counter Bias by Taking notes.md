@@ -1,1 +1,0 @@
-![[Notes/Counter Bias Hindsight with real time notes.jpg]]
