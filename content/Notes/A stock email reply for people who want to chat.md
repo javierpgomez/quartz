@@ -1,0 +1,1 @@
+I'm happy to help! I do keep my limited 1-1 time available for my consulting clients, students, and Fitforlife members, so right now the best way for me to help will be to know what your questions are upfront. Try to pick 1-2 that are most important to you, and the more specific the better
