@@ -1,9 +1,9 @@
 ---
-title: "Presidents and Food"
+title: Presidents and Food
 tags:
-- " food "
-- " food systems "
-novelty: 8
+  - food
+  - food
+  - systems
 ---
 
 Food policy is not something American presidents have had to give much thought to, at least since the Nixon administration

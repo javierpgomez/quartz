@@ -1,11 +1,10 @@
 ---
-title: "Play is a state of Mind"
+title: Play is a state of Mind
 tags:
-- " play "
-- " movement"
-- " exploration"
-- " fun "
-novelty:
+  - play
+  - movement
+  - exploration
+  - fun
 ---
 
 What is the difference between Exercise and Play?

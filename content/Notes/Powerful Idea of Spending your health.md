@@ -1,10 +1,9 @@
 ---
-title: "Powerful Idea of Spending your health"
+title: Powerful Idea of Spending your health
 tags:
-- " health "
-- " aging "
-- " time "
-novelty: 8
+  - health
+  - aging
+  - time
 ---
 
 I think what many people really want from money is the ability to stop thinking about money. To have enough money that they can stop thinking about it and focus on other stuff. ([View Highlight](https://read.readwise.io/read/01gr81sm7pzbckq8wpm228saxb))
