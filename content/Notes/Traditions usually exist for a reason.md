@@ -1,11 +1,10 @@
 ---
 title: " Traditions usually exist for a reason "
 tags:
-- " history "
-- " culture "
-- " tradition "
-- " wisdom "
-novelty: 5
+  - history
+  - culture
+  - tradition
+  - wisdom
 ---
 
 Most traditions exist for a reason

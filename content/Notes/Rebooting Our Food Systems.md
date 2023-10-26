@@ -1,8 +1,8 @@
 ---
-title: "Rebooting Our Food Systems"
+title: Rebooting Our Food Systems
 tags:
-- " food systems "
-novelty: 4
+  - food
+  - systems
 ---
 
 That's interesting because

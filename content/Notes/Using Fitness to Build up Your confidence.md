@@ -1,9 +1,8 @@
 ---
-title: "Using Fitness to Build up Your confidence"
+title: Using Fitness to Build up Your confidence
 tags:
-- " confidence "
-- " exercise "
-novelty: 4
+  - confidence
+  - exercise
 ---
 
 **Reflect:** How confident are you that your current approach to fitness will enable you to achieve your goals/intentions? How do you think exercise might feel different if you cultivated more confidence?
