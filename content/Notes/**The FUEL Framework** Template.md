@@ -1,8 +1,7 @@
 ---
-alias: 
-tags: [" #on/template-swipe-file "]
-type: template
-novelty: 
+tags:
+  - "#on/template-swipe-file"
+title: "**The FUEL Framework** Template"
 ---
 
 Facts
