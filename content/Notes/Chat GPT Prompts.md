@@ -1,1 +1,0 @@
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://gorgeous-bee-52f.notion.site/ChatGPT-Power-Prompts-40f8624ee4a0415dbf5ff67987dcdb6e)
