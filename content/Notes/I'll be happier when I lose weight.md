@@ -1,0 +1,1 @@
+https://www.precisionnutrition.com/goal-setting-exercise?utm_source=marketingcloud&utm_medium=email&utm_campaign=101321-NewsletterAudience-SmartestCoachIssue13

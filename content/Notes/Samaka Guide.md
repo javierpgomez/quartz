@@ -1,0 +1,1 @@
+https://preparemanila.org/wp-content/uploads/resources/The-Samaka-Guide-to-Homesite-Farming.pdf

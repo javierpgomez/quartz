@@ -1,0 +1,1 @@
+https://toddhargrove.substack.com/p/hands-and-minds?r=7e8n9&utm_campaign=post&utm_medium=web&utm_source=twitter

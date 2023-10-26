@@ -1,0 +1,1 @@
+https://guzey.com/intelligence-killed-genius/
