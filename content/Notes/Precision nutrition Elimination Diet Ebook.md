@@ -1,0 +1,1 @@
+https://www.precisionnutrition.com/coach-clients-through-an-elimination-diet-ebook?utm_source=marketingcloud&utm_medium=email&utm_campaign=041622-VAL-BTH-NON-SCR-Issue38-BCAST
