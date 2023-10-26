@@ -7,9 +7,9 @@ tags:
 novelty: 8
 ---
 
-I think what many people really want from money is the ability to stop thinking about money. To have enough money that they can stop thinking about it and focus on other stuff. ([View Highlight](https://read.readwise.io/read/01gr81sm7pzbckq8wpm228saxb))
+I think what many people really want from money is the ability to stop thinking about money. To have enough money that they can stop thinking about it and focus on other stuff.
 
-A lot of financial planners I’ve talked to say one of their biggest challenges is getting clients to spend money in retirement. Even an appropriate, conservative amount of money. Frugality and savings become such a big part of some people’s identity that they can’t ever switch gears. ([View Highlight](https://read.readwise.io/read/01gr81sq76de7ywfpppmkgfgt9))
+A lot of financial planners I’ve talked to say one of their biggest challenges is getting clients to spend money in retirement. Even an appropriate, conservative amount of money. Frugality and savings become such a big part of some people’s identity that they can’t ever switch gears.
 
 That's interesting because I think about health also and how people think health is for its own sake. But you have to learn how to spend your health too.
 
