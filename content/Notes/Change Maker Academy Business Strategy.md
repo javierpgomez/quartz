@@ -1,5 +1,0 @@
-[Day 1](https://www.changemakeracademy.com/day-1-business-strategy)
-[Day 2](https://www.changemakeracademy.com/day-2-business-strategy)
-[Day 3](https://www.changemakeracademy.com/day-3-business-strategy)
-[Day 4](https://www.changemakeracademy.com/day-4-business-strategy)
-[Day 5](https://www.changemakeracademy.com/day-5-business-strategy)

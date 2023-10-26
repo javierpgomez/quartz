@@ -1,1 +1,0 @@
-https://thesportjournal.org/article/covid-19-social-isolation-and-optimism-in-sport/

@@ -1,1 +1,0 @@
-![[Balanga Bus Schedule.heic]]

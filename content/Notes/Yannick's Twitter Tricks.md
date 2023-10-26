@@ -1,1 +1,0 @@
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://hypefury.notion.site/Yannick-s-Tricks-5bbc6524d0b344d8b118eeffef45a866)

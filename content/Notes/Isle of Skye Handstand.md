@@ -1,1 +1,0 @@
-![](Extras/Images/Isle%20of%20Skye%20Handstand.gif)

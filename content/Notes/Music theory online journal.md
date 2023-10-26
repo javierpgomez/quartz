@@ -1,1 +1,0 @@
-# Music theory online journal 

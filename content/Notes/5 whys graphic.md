@@ -1,1 +1,0 @@
-![[5-Whys-Graphic-02-01.png]]

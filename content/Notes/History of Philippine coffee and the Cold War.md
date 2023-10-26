@@ -1,1 +1,0 @@
-History of Philippine coffee and the Cold War 

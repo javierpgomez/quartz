@@ -1,1 +1,0 @@
- https://history-of-mathematics.org/

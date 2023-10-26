@@ -1,1 +1,0 @@
-https://www.squibler.io/dangerous-writing-prompt-app

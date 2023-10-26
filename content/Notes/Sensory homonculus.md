@@ -1,2 +1,0 @@
-# Sensory homonculus 
-

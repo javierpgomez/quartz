@@ -1,2 +1,0 @@
-# Willingness vs Readiness
-

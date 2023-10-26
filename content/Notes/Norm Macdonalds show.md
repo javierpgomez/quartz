@@ -1,2 +1,0 @@
-Norm Macdonalds Show
-[Norm Macdonald Live : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/Norm_Macdonald_Live/Norm+Macdonald+Live+-+S01E02+-+Norm+Macdonald+with+Guest+Tom+Green.mp4)

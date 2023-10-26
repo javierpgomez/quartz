@@ -1,1 +1,0 @@
-https://quantum.country/qcvc

@@ -1,1 +1,0 @@
-http://www.pz.harvard.edu/thinking-routines#CoreThinkingRoutines
