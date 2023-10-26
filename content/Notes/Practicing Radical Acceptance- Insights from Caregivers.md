@@ -1,8 +1,6 @@
 ---
-title: Practicing Radical Acceptance: Insights from Caregivers
+title: "Practicing Radical Acceptance: Insights from Caregivers"
 tags:
-- "  "
-novelty:
 ---
 
 Radical acceptance is something we practice over and over to help us loosen our grip on unwanted situations, on letting them control our well-being and taking up this mental real state that's so precious, our attention. 
@@ -24,8 +22,6 @@ Podcast excerpt is here:
 
 ----
 
-The full episode is here:
-[Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism & Aging](https://share.snipd.com/episode/e20587c2-a35b-4e7f-9197-815ab58b1eeb)
+Read more at: [Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism & Aging](https://share.snipd.com/episode/e20587c2-a35b-4e7f-9197-815ab58b1eeb)
 
-Go one level up : [Health Mindsets MOC](Maps/Health%20Mindsets%20MOC.md)
 You may also be interested in: [The ability to endure hardships](Notes/The%20ability%20to%20endure%20hardships.md)
