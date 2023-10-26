@@ -22,5 +22,4 @@ This concept is akin to the **economic principle of opportunity cost**, but it e
 
 Read more at: [The Real Price of Success | The Curiosity Chronicle](https://www.sahilbloom.com/newsletter/the-real-price-of-success)
 
-Go one level up : [Life MOC](Maps/Life%20MOC.md)
-You may also be interested in: [[]]
+You may also be interested in: [202111281850- Health and Wealth](Notes/202111281850-%20Health%20and%20Wealth.md)
