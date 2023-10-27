@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "396a2aeab9f48bbd",
+            "id": "86cbcf872cbeec4e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Going outside and putting yourself healthy stress.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Going outside and putting yourself healthy stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Going outside and putting yourself healthy stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Going outside and putting yourself healthy stress.md"
+              }
             }
           }
         ]
@@ -138,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "396a2aeab9f48bbd",
+  "active": "86cbcf872cbeec4e",
   "lastOpenFiles": [
+    "Notes2/Going outside and putting yourself in a bit of stress.md",
+    "Notes/Going outside and putting yourself healthy stress.md",
+    "Notes/Going outside and putting yourself in a bit of stress.md",
     "Notes/Going from 0 to 1 is harder than going from 1 to 2.md",
     "Notes2/God as provider.md",
     "Notes/God as provider.md",
@@ -163,9 +174,6 @@
     "Notes/Goodhart's Law (mental models).md",
     "Notes/Good places to eat in Barcelona.md",
     "Notes/Good news about climate change.md",
-    "Notes/Good movement usually looks pretty (concept).md",
-    "Notes2/Going outside and putting yourself in a bit of stress.md",
-    "Notes2/Going from 0 to 1 is harder than going from 1 to 2.md",
     "Notes2",
     "Templates",
     "Hide",
