@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee871d5b49ab444",
+        "id": "4d04be7a87be0092",
         "type": "tabs",
         "children": [
           {
-            "id": "86cbcf872cbeec4e",
+            "id": "b8389cc4e68f6a20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Going outside and putting yourself healthy stress.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,6 +60,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5c7ef1d0985d07f0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Going outside and putting yourself healthy stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Going outside and putting yourself healthy stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +126,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Going outside and putting yourself healthy stress.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "d4e6f8398648dce4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -146,34 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86cbcf872cbeec4e",
+  "active": "563949e9b43f48b5",
   "lastOpenFiles": [
-    "Notes2/Going outside and putting yourself in a bit of stress.md",
-    "Notes/Going outside and putting yourself healthy stress.md",
-    "Notes/Going outside and putting yourself in a bit of stress.md",
-    "Notes/Going from 0 to 1 is harder than going from 1 to 2.md",
-    "Notes2/God as provider.md",
-    "Notes/God as provider.md",
-    "Notes/Go-to nutritional information at Examine.com.md",
-    "Notes2/Go-to nutritional information at Examine.com.md",
-    "Notes/Growing your own loofahs.md",
-    "Notes/Grey Water (idea).md",
-    "Notes/Gresham's law (concept).md",
-    "Notes/Greenspace PH.md",
-    "Notes/Greening the Desert by Geoff Lawton.md",
-    "Notes/Greasing the Groove.md",
-    "Notes/Greasing the Groove- The Art of Sub-Maximal Gains.md",
-    "Notes/Gray Cook Parallel Approach.md",
-    "Notes/Gravity problems are things that are outside of your control..md",
-    "Notes/Gravity Problems (concepts).md",
-    "Notes/Gravity is your friend for rain harvesting.md",
-    "Notes/Grasping and hands and manual labor.md",
-    "Notes/Graphic on Pain Management.md",
-    "Notes/Grade inflation is an arms race.md",
-    "Notes/Got Done List.md",
-    "Notes/Goodhart's Law (mental models).md",
-    "Notes/Good places to eat in Barcelona.md",
-    "Notes/Good news about climate change.md",
+    "Notes/It's actually more about motivation than talent.md",
+    "Notes/It's a deep dive into specific objects.md",
+    "Notes/It really sucks that most fitness stuff is not for regular people.md",
+    "Notes/it is the brain that regulates obesity.md",
+    "Notes/It is impossible to remove these grooves entirely!.md",
+    "Notes/It is hard to explain why traditions exist.md",
+    "Notes2/It's not just about getting aerobic exercise.md",
+    "Notes2/It's not just about aesthetics.md",
+    "Notes2/It's Never Too late to get healthy.md",
+    "Notes2/It's hard to separate movement from exercise.md",
+    "Notes2/It's dealing with the stress.md",
+    "Notes2/It's circular but true, we become what we do.md",
+    "Notes2/It's challenging to do simple things.md",
+    "Notes2/It's always about play to win.md",
+    "Notes2/It's actually more about motivation than talent.md",
+    "Notes2/It's a deep dive into specific objects.md",
+    "Notes2/It really sucks that most fitness stuff is not for regular people.md",
+    "Notes2/it is the brain that regulates obesity.md",
+    "Notes2/It is impossible to remove these grooves entirely!.md",
+    "Notes2/It is hard to explain why traditions exist.md",
+    "Notes/It's not just about getting aerobic exercise.md",
+    "Notes/It's not just about aesthetics.md",
+    "Notes/It's Never Too late to get healthy.md",
+    "Notes/It's hard to separate movement from exercise.md",
+    "Notes/It's dealing with the stress.md",
+    "Notes/It's circular but true, we become what we do.md",
     "Notes2",
     "Templates",
     "Hide",
