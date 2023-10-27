@@ -1,0 +1,1 @@
+Bitcoin perhaps is more like jewelery that currency 
