@@ -11,8 +11,12 @@
             "id": "b8389cc4e68f6a20",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/It's not just about getting aerobic exercise.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/It's not just about getting aerobic exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/It's not just about getting aerobic exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/It's not just about getting aerobic exercise.md"
+              }
             }
           },
           {
@@ -154,34 +162,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "563949e9b43f48b5",
+  "active": "b8389cc4e68f6a20",
   "lastOpenFiles": [
-    "Notes/It's actually more about motivation than talent.md",
-    "Notes/It's a deep dive into specific objects.md",
-    "Notes/It really sucks that most fitness stuff is not for regular people.md",
-    "Notes/it is the brain that regulates obesity.md",
-    "Notes/It is impossible to remove these grooves entirely!.md",
-    "Notes/It is hard to explain why traditions exist.md",
-    "Notes2/It's not just about getting aerobic exercise.md",
-    "Notes2/It's not just about aesthetics.md",
-    "Notes2/It's Never Too late to get healthy.md",
-    "Notes2/It's hard to separate movement from exercise.md",
-    "Notes2/It's dealing with the stress.md",
-    "Notes2/It's circular but true, we become what we do.md",
-    "Notes2/It's challenging to do simple things.md",
-    "Notes2/It's always about play to win.md",
-    "Notes2/It's actually more about motivation than talent.md",
-    "Notes2/It's a deep dive into specific objects.md",
-    "Notes2/It really sucks that most fitness stuff is not for regular people.md",
-    "Notes2/it is the brain that regulates obesity.md",
-    "Notes2/It is impossible to remove these grooves entirely!.md",
-    "Notes2/It is hard to explain why traditions exist.md",
-    "Notes/It's not just about getting aerobic exercise.md",
-    "Notes/It's not just about aesthetics.md",
-    "Notes/It's Never Too late to get healthy.md",
-    "Notes/It's hard to separate movement from exercise.md",
-    "Notes/It's dealing with the stress.md",
-    "Notes/It's circular but true, we become what we do.md",
+    "Notes2/Some Health Journals.md",
+    "Notes2/Some Greek Allusions.md",
+    "Notes2/Some content ideas for my new niche on injury.md",
+    "Notes2/Some Allusions from Literature.md",
+    "Notes2/Solve an application problem.md",
+    "Notes2/Solutions to Flow Stoppers.md",
+    "Notes2/SolarPunk.md",
+    "Notes2/solar evacuated tubes.md",
+    "Notes2/Society of the Spectacle.md",
+    "Notes2/Societal expectations about competition.md",
+    "Notes2/Social Support matters no matter who you are.md",
+    "Notes2/Social media encourages high conflict.md",
+    "Notes2/Social Media and the root comparison.md",
+    "Notes2/Social liberation in Transtheorical Theory.md",
+    "Notes2/Social Health is more important than you think.md",
+    "Notes2/Social Experiences are going to be the most important for health.md",
+    "Notes2/So many options and logins and stuff.md",
+    "Notes2/So Aspartame is linked to Cancer, how can we think through this?.md",
+    "Notes2/Smarter people are more biased.md",
+    "Notes2/Smart Assessment.md",
+    "Notes2/Small Wins foster a Sense of Control.md",
+    "Notes2/Small Farms and Food Production.md",
+    "Notes2/Small decisions actually make a huge impact.md",
+    "Notes2/Slow burns vs heavy lefts.md",
+    "Notes2/Sleep we lost preindustrial slumber.md",
+    "Notes2/Sleep and Health Outcomes in Hospitals.md",
     "Notes2",
     "Templates",
     "Hide",
