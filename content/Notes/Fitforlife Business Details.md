@@ -1,0 +1,7 @@
+FITFORLIFE.PH FITNESS INSTRUCTION SERVICES
+
+8/F DPC Place Building, 2322 Don Chino Roces Ave. Extension
+Makati City
+1200
+
+452-653-972-001

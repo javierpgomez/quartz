@@ -1,0 +1,36 @@
+**EU Info**
+
+  
+ORANGE SIMS
+
+Marki - +33681786204
+
+Juliana - +33681786074
+
+  
+
+JAVIER’S VERSE
+
+5585 6600 2792 9390
+
+09/26
+
+652
+
+  
+
+BOO’s AMAZON ACCOUNT
+
+amazon.es
+
+booumaly@gmail
+
+Ee$hPV5BG7sh%o
+
+  
+
+RAFA’S SPAIN ACCOUNT
+
+5489 0103 0957 0776
+
+IBAN: ES82 0049 0249 8320 1033 3381
