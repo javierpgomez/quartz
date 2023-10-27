@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c72e750bd233bf05",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ee871d5b49ab444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "396a2aeab9f48bbd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5638f8b9124e562",
+    "type": "split",
+    "children": [
+      {
+        "id": "747617b72c231976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "563949e9b43f48b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d4496353b926003",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "380787690f2c8c16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c24ee38f2527248",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ea372c193795e4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42bd18c0ed7f11c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe1cee72cab965e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2b0ec832e9e3ed5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5de42e5f2d0998df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "396a2aeab9f48bbd",
+  "lastOpenFiles": [
+    "Notes/Gabriel Weinberg.md",
+    "Notes/Fitforlife's Tech Stack.md",
+    "Notes/Fitforlife WIX DNSs.md",
+    "Notes/Fitforlife Expenses and Subscriptions.md",
+    "Notes/Fitforlife Color Palette.md",
+    "Notes/Fitforlife Color Palette 1.md",
+    "Notes/Fitforlife Business Details.md",
+    "Notes/Fitforlife Address.md",
+    "Notes/Espree Devora.md",
+    "Notes/EU 2022 Info.md",
+    "Notes/Dewasis.md",
+    "Notes/Bianca Light.md",
+    "Notes/Bernardo Saravia.md",
+    "Notes/Barney's Sales Pitch.md",
+    "Notes/Barney Meekin.md",
+    "Notes2",
+    "Templates/Idea Card Template.md",
+    "Templates",
+    "index.md",
+    "Notes/202205180947 - Social Media Hijacks Attention.md",
+    "Notes/202204110953 - The real reason people don't really get started.md",
+    "Notes/202111290754- Health is a Spiritual Problem.md",
+    "Notes/Activation energy (concept).md",
+    "Notes/202112161330- My multidisciplinary story.md",
+    "Notes/Access to Daylight.md",
+    "Notes/202203091423- Now I have to be my own coach.md",
+    "Notes/1 Year Since I started out on my own.md",
+    "Notes/202208031103- Daily Inventory for movement 5 categories.md",
+    "Hide",
+    "Extras/Images/July 2022 Twitter Summary 3.png",
+    "Extras/Images/Folder of Videos.png",
+    "Extras/Images/Sharing BIP Workflow 3.png",
+    "Extras/Images/Xnapper-2023-04-26-13.14.22.png",
+    "Extras/Images/Movement Videos Library.png",
+    "Extras/Images/lyt-kit-example-cooling-pad- 2.jpg",
+    "Extras/Images/David Perell on Youtube building a career online.jpg",
+    "Extras/Images/Screenshot 2023-05-15 at 8.23.45 PM.png",
+    "Extras/Images/wolverine-tethered 2.jpg",
+    "Extras/Images/Building your system worksheet 4.png",
+    "Extras/Images/Part3StorytellingSpeakerEvaluationWorksheets-200911-162245 2.pdf",
+    "Extras/Images/BD5IrresistibleOffer-200723-210544 2.pdf",
+    "Extras/Images/BD4DefineYourIdealCustomer-200723-210326 2.pdf",
+    "Extras/Images/BD8FindEngageYourTribe-200723-212633 2.pdf",
+    "Extras/Images/Balanga Bus Schedule 3.heic",
+    "Extras/Images/BD3WorksheetforMoneyMindsetMastery2007232122021-210524-101722.pdf",
+    "Extras/Images/Balanga Bus Schedule.heic"
+  ]
+}
