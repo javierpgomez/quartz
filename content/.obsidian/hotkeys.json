@@ -15,5 +15,14 @@
       ],
       "key": "M"
     }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

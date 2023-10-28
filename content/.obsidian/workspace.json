@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4d04be7a87be0092",
+        "id": "a36a94646e1f3fca",
         "type": "tabs",
         "children": [
           {
-            "id": "b8389cc4e68f6a20",
+            "id": "9dd155a252ae64c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/You need the physicality of it.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "academia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/You need the physicality of it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/You need the physicality of it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/You need the physicality of it.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8389cc4e68f6a20",
+  "active": "9dd155a252ae64c6",
   "lastOpenFiles": [
-    "Notes/You may not like this. But here is why you should.md",
-    "Notes/Zhu Xi.md",
-    "Notes/Zettelkasten.md",
-    "Notes/Zero Intermittent Fasting App.md",
-    "Notes/Zen Story on nothing.md",
-    "Notes/Zeigarnik effect.md",
-    "Notes/Your work is being stored.md",
-    "Notes/Your best years can be ahead of you.md",
-    "Notes/You're not WEIRD.md",
-    "Notes/You still have to deal with the real world.md",
-    "Notes/You Should Want to Live Near Friends.md",
-    "Notes/You should play Factorio.md",
-    "Notes/You should love it or hate it (Your workout).md",
-    "Notes/You only stay at peak performance for a short time.md",
-    "Notes/You only learn what you make.md",
-    "Notes/You need the physicality of it.md",
-    "Notes/You have to exercise as you age.md",
-    "Notes/You have choices when working out.md",
-    "Notes/You don't need research for knowledge.md",
-    "Notes/You can't steer a stationary ship.md",
-    "Notes/You can't just write every day.md",
-    "Notes/You can't just copy a workout.md",
-    "Notes/You can't hack reputation it will cost you.md",
-    "Notes/You Can still do impressive things.md",
-    "Notes/You can only stay at the peak for a short time (analogy).md",
-    "Notes/You can have different biological ages.md",
+    "Notes/Skinner's Law and the Psychology of Procrastination.md",
+    "Notes/Preserving Ancestral Knowledge- The Spark Gap Radio Transmitter.md",
+    "Notes/The Intellectual Boon of Adversarial Collaboration.md",
+    "Notes/The Double-Edged Sword of Academic Controversy.md",
+    "Notes/The Double-Edged Sword of Shared Behaviors in Relationships.md",
+    "Notes/Embracing Imperfection in Sales and Iteration.md",
+    "Notes/The Walking Cure for Boredom and Creative Blocks.md",
+    "Notes/Focusing on Family- The New Optimization Challenge.md",
+    "Notes/The Unmeasurable Certainty of End-of-Life Dreams.md",
+    "Notes/The Sacred Space of End-of-Life Conversations.md",
+    "Notes/The Myth of the \"Perfect Trip\"- Navigating Travel Guilt.md",
+    "Notes/The Double-Edged Sword of Intellectual Ambition.md",
+    "Notes/The Problem with Using Metaphors for Mental Health and Illness.md",
+    "Notes/The Efficiency Paradox- Work Less, Achieve More.md",
+    "Notes/The Virtues of Storytelling and Scarcity in Life's Stages.md",
+    "Notes/The Subtle Rebellion of 'Revenge Bedtime Procrastination'.md",
+    "Notes/Sustainable Weight Loss- A Journey, Not a Sprint.md",
+    "Notes/The Importance of Accountability and Consistency in Weight Loss.md",
+    "Notes/Leveraging Client Success for Business Growth and Personal Empowerment.md",
+    "Notes/Breaking Free from the Self-Consistency Trap.md",
+    "Notes/The Kingdoms of Well and Sick- Unpacking Medical Metaphors from the 1970s to Today.md",
+    "Notes/Embody to Become- The Alchemy of 'Acting As If'.md",
+    "Notes/The Symbiotic Relationship Between Nature and Exercise.md",
+    "Notes/Embracing the Longevity of a Well-Lived Life.md",
+    "Notes/The Weight of Expectations- From Child Athlete to Curious Explorer.md",
+    "Notes/The True Value of a Non-Traditional Career Path.md",
     "Notes2",
     "Templates",
     "Hide",
