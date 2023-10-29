@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a36a94646e1f3fca",
+        "id": "961f14c5b5077097",
         "type": "tabs",
         "children": [
           {
-            "id": "9dd155a252ae64c6",
+            "id": "b439d940238841c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Just Keep Grinding- The Journey is the Rewarded.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "972952e2b7b8aa63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Fallacy of Rankings- A Critical Look at the US News System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40ebe3ddce5a06d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Rise of 'Slow Fitness'- A Counterpoint to Optimization Culture.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "academia",
+                "query": "long game",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/The Rise of 'Slow Fitness'- A Counterpoint to Optimization Culture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/The Rise of 'Slow Fitness'- A Counterpoint to Optimization Culture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/The Rise of 'Slow Fitness'- A Counterpoint to Optimization Culture.md"
+              }
             }
           },
           {
@@ -155,8 +188,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dd155a252ae64c6",
+  "active": "7d4496353b926003",
   "lastOpenFiles": [
+    "Notes/The Fallacy of Rankings- A Critical Look at the US News System.md",
+    "Notes/The Rise of 'Slow Fitness'- A Counterpoint to Optimization Culture.md",
+    "Notes/Just Keep Grinding- The Journey is the Rewarded.md",
+    "Notes/Transforming Audiences into Communities through Challenges.md",
+    "Notes/The Levers That Money Can't Pull- The Double-Edged Sword of Financial Freedom.md",
+    "Notes/The High Cost of Transferred-Autonomy- When Financial Responsibility Becomes a Family Affair.md",
+    "Notes/Love Above All- The Underestimated Currency in a Skeptical World.md",
+    "Notes/The Energy Paradox- How Investing in Passion Fuels Us Rather Than Drains Us.md",
+    "Notes/The Strangely Beautiful Experience of Google Reviews- The Absurdity of Rating Everything.md",
+    "Notes/Looking at amazon reviews for health journals.md",
+    "Notes/The Art of the Pitch- Essential Skills for Career Longevity.md",
+    "Notes/The Illusion of Beauty- The Unseen Costs of Social Media.md",
+    "Notes/Ozempic- The Double-Edged Sword of Weight Loss.md",
+    "Notes/Seizing the Means of Knowledge Production- The Cyclical Nature of Free Speech Debates.md",
     "Notes/Skinner's Law and the Psychology of Procrastination.md",
     "Notes/Preserving Ancestral Knowledge- The Spark Gap Radio Transmitter.md",
     "Notes/The Intellectual Boon of Adversarial Collaboration.md",
@@ -169,20 +216,6 @@
     "Notes/The Sacred Space of End-of-Life Conversations.md",
     "Notes/The Myth of the \"Perfect Trip\"- Navigating Travel Guilt.md",
     "Notes/The Double-Edged Sword of Intellectual Ambition.md",
-    "Notes/The Problem with Using Metaphors for Mental Health and Illness.md",
-    "Notes/The Efficiency Paradox- Work Less, Achieve More.md",
-    "Notes/The Virtues of Storytelling and Scarcity in Life's Stages.md",
-    "Notes/The Subtle Rebellion of 'Revenge Bedtime Procrastination'.md",
-    "Notes/Sustainable Weight Loss- A Journey, Not a Sprint.md",
-    "Notes/The Importance of Accountability and Consistency in Weight Loss.md",
-    "Notes/Leveraging Client Success for Business Growth and Personal Empowerment.md",
-    "Notes/Breaking Free from the Self-Consistency Trap.md",
-    "Notes/The Kingdoms of Well and Sick- Unpacking Medical Metaphors from the 1970s to Today.md",
-    "Notes/Embody to Become- The Alchemy of 'Acting As If'.md",
-    "Notes/The Symbiotic Relationship Between Nature and Exercise.md",
-    "Notes/Embracing the Longevity of a Well-Lived Life.md",
-    "Notes/The Weight of Expectations- From Child Athlete to Curious Explorer.md",
-    "Notes/The True Value of a Non-Traditional Career Path.md",
     "Notes2",
     "Templates",
     "Hide",
