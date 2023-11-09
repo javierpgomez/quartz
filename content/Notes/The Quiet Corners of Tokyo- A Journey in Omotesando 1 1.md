@@ -29,4 +29,4 @@ In a world that's increasingly pushing us towards complexity and speed, finding 
 Read more at: [Tokyo is the new Paris - by Noah Smith - Noahpinion](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
 
 Go one level up : [Travel MOC](Maps/Travel%20MOC.md)
-You may also be interested in: [202111250933- The benefit is at the beginning](Notes/202111250933-%20The%20benefit%20is%20at%20the%20beginning.md)
+You may also be interested in: [The benefit is at the beginning](The%20benefit%20is%20at%20the%20beginning.md)

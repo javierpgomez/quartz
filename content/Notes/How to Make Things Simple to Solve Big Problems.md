@@ -24,4 +24,4 @@ we have to recognize that at root sleeping is a very simple and easy thing. It
 Read more at: [Site Unreachable](https://www.nateliason.com/blog/decomplication)
 
 Go one level up : [Health Mindsets MOC](Maps/Health%20Mindsets%20MOC.md)
-You may also be interested in: [Creative problem problem sovling is like improv](Notes/Creative%20problem%20problem%20sovling%20is%20like%20improv.md)
+You may also be interested in: [Creative problem problem solving is like improv](Creative%20problem%20problem%20solving%20is%20like%20improv.md)

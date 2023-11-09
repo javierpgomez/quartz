@@ -21,6 +21,6 @@ If it works, it's a strategy. And each strategy can have pros and cons
 
 
 ### See also
-[[Notes/202112181553- Movement Puzzles]]
-[[Notes/202201182133- A list of movement puzzles]]
+[[Movement Puzzles]]
+[[A list of movement puzzles]]
 [[Notes/Movement sources and movement sinks]]

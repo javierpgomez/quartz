@@ -18,4 +18,4 @@ Tweet url:
 I recall feeling as though I was in mourning when a big project I had poured 18 months into got pulled almost overnight. This was whilst working a job in 2019 and I and ultimately ended up leaving eight months later as the realisation sank in that there was nothing else for me in this organisation.
 
 ### See also
-[[Notes/202203181116- Show up fail fast and learn]]
+[[Show up fail fast and learn]]

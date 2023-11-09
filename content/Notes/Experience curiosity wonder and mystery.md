@@ -19,4 +19,4 @@ Experience is a good teacher
 And you're lucky if you find it out early
 
 ### See also
-[[Notes/202203212043- We still have that concept of ideal correct movement]]
+[[We still have that concept of ideal correct movement]]

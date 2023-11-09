@@ -22,4 +22,4 @@ And you start to see a pattern: the days you feel the best are the days you cele
 Slowly but surely, you're feeling better and better. And you're reminded that even on the toughest days, there's always something to be grateful for.
 
 ### See also
-[[Notes/202111281951- 2 Maxims of Coaching]]
+[[The 2 Maxims of Coaching]]

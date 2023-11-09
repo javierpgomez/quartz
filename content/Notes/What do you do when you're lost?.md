@@ -18,4 +18,4 @@ What do you do when you're lost
 Even when you're lost, there's something to be found there
 
 ### See also
-[[Notes/202203181116- Show up fail fast and learn]]
+[[Show up fail fast and learn]]

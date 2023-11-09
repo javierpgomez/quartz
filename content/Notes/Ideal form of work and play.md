@@ -18,5 +18,5 @@ Tweet url:
 
 
 ### See also
-[[Notes/202111281949- Deep Why]]
+[[Deep Why]]
 [[Notes/Don't make play work]]

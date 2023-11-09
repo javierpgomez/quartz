@@ -33,4 +33,4 @@ It's important because we always miss our chances.
 Read more at: [The Art and Science of Spending Money · Collab Fund](https://collabfund.com/blog/the-art-and-science-of-spending-money/) by Morgan Housel
 
 Go one level up : [Health MOC](Maps/Health%20MOC.md)
-You may also be interested in: [202111281850- Health and Wealth](Notes/202111281850-%20Health%20and%20Wealth.md)
+You may also be interested in: [Health and Wealth](Health%20and%20Wealth.md)

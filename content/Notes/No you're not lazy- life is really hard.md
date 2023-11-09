@@ -15,7 +15,7 @@ To support fitness and nutrition habits—especially during major life upheavals
 
 That's interesting because it's so easy to get caught up in perfectionism, in making sure you do things 100% correctly. You're always relying on willpower to get things done. But at the end of the day, it's more your systems that carry you through the day
 
-That reminds me of [[Notes/202112181555- imperfect motivation]]
+That reminds me of [[imperfect motivation]]
 
 It's similar because if the goal is to keep moving and not skip, you take what you can and you build your systems. And it's important not to judge yourself at all at any point
 

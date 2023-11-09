@@ -25,4 +25,4 @@ nd you can talk about many of these things. I think a lot of times having just a
 
 ### See also
 [[Notes/Reputation is a long game build it slowly]]
-[[Notes/202203181140- Health advice for your 18 year old self]]
+[[Health advice for your 18 year old self]]

@@ -29,4 +29,4 @@ Instead, it will be something new and different- and that's exciting
 Read more at: URL
 
 Go one level up : [Health Mindsets MOC](Maps/Health%20Mindsets%20MOC.md)
-You may also be interested in: [202201131114- Hope is an underlooked factor in health](Notes/202201131114-%20Hope%20is%20an%20underlooked%20factor%20in%20health.md)
+You may also be interested in: [Hope is an underlooked factor in health](Hope%20is%20an%20underlooked%20factor%20in%20health.md)

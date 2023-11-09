@@ -23,4 +23,4 @@ Practising humility can therefore help to boost wellbeing.
 
 ### See also
 [[Notes/We think humility is putting yourself down]]
-[[Notes/202205302035- Collecting Elephant legs]]
+[[Collecting Elephant legs]]

@@ -22,4 +22,4 @@ By extending the principles of Skinner's Law across different facets of our life
 
 Read more at: [My favourite rules & razors](https://clouds-dirt.beehiiv.com/p/favourite-rules-razors)
 
-You may also be interested in: [[202201172054- How to find your go-to habits]]
+You may also be interested in: [[How to find your go-to habits]]

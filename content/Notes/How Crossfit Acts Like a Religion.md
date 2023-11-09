@@ -24,7 +24,7 @@ That's interesting because if we care about getting people healthy, thinking abo
 
 Will power is way overrated, and designing your environment is 10x more effective.
 
-That reminds me of [202202030902- Find a group where your desired culture exists](Notes/202202030902-%20Find%20a%20group%20where%20your%20desired%20culture%20exists.md).
+That reminds me of [Find a group where your desired culture exists](Find%20a%20group%20where%20your%20desired%20culture%20exists.md).
 
 It's similar because if you want to make some kind of positive (or negative) change in yourself, then surround yourself with a group where that behavior is already manifested. That's the idea behind things like AA or the 12 step programs.
 
@@ -39,6 +39,6 @@ It's important because if we want people to be healthy, we definitely need to re
 Read more at: [How CrossFit Acts Like a Religion - The Atlantic](https://www.theatlantic.com/health/archive/2017/06/the-church-of-crossfit/531501/)
 
 Go one level up : [Health MOC](Maps/Health%20MOC.md)
-You may also be interested in: [202201252136- Health, Culture, and National security](Notes/202201252136-%20Health,%20Culture,%20and%20National%20security.md)
+You may also be interested in: [Health, Culture, and National security](Health,%20Culture,%20and%20National%20security.md)
 
 

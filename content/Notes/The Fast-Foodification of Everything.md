@@ -20,4 +20,4 @@ TLDR; you not just buying a cycling jersey, you’re buying into a cycling commu
 Read more at: [The Fast-Foodification of Everything](https://latecheckout.substack.com/p/the-fast-foodification-of-everything)
 
 Go one level up : [Culture MOC](Maps/Culture%20MOC.md)
-You may also be interested in: [202202030902- Find a group where your desired culture exists](Notes/202202030902-%20Find%20a%20group%20where%20your%20desired%20culture%20exists.md)
+You may also be interested in: [Find a group where your desired culture exists](Find%20a%20group%20where%20your%20desired%20culture%20exists.md)

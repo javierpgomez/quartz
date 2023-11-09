@@ -19,4 +19,4 @@ So, the question we should perhaps be asking is not just how much money we need,
 
 Read more at: [The Levers That Money Can’t Pull](https://moretothat.com/the-levers-that-money-cant-pull/)
 
-You may also be interested in: [[202207200813- If you could give up half of your money now for health what would it be]]
+You may also be interested in: [[If you could give up half of your money now for health what would it be]]

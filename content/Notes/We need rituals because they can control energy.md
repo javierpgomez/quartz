@@ -22,5 +22,5 @@ I do think we need more rituals. Not just for forgiveness but for lots of things
 
 ### See also
 [[Notes/For those who don't believe- there's poetry]]
-[[Notes/202112081044- For those who don't believe]]
-[[Notes/202207181927- The need for public forgiveness]]
+[[For those who don't believe]]
+[[The need for public forgiveness]]

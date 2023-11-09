@@ -20,5 +20,5 @@ Support others without bragging. Help people around you without bragging about i
 Celebrate the success of others. While it’s important to celebrate all your wins, even the small ones, humble people also rejoice in the success of others.
 
 ### See also
-[[Notes/202205302035- Collecting Elephant legs]]
+[[Collecting Elephant legs]]
 [[Notes/The benefits of being humble]]

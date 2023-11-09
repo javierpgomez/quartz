@@ -23,5 +23,5 @@ Sure, I could just spend time in cities with lots of healthy stuff that I can se
 
 ### See also
 [[Notes/Judit Polgar and Chess Environments (examples)]]
-[[Notes/202203212054- Injury, learning, environment, social conditioning]]
+[[Injury, learning, environment, social conditioning]]
 [[Notes/Environment is the key to making the change]]

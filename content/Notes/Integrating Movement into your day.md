@@ -23,4 +23,4 @@ My pace varied with the grade and my path emerged naturally. The time flew by an
 Read more at: [Integrating Movement - by Sam Sager - Intuitive Fitness](https://samsager.substack.com/p/integrating-movement?utm_source=post-email-title&publication_id=1271070&post_id=116316309&isFreemail=true)
 
 Go one level up : [Movement MOC](Maps/Movement%20MOC.md)
-You may also be interested in: [202201132059- How to design a movement puzzle for yourself](Notes/202201132059-%20How%20to%20design%20a%20movement%20puzzle%20for%20yourself.md)
+You may also be interested in: [How to design a movement puzzle for yourself](How%20to%20design%20a%20movement%20puzzle%20for%20yourself.md)

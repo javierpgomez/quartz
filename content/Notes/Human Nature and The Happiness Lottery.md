@@ -16,7 +16,7 @@ As I pointed out in the above findings, our relationships are at least as import
 
 But one is that promoting friendship and marriage doesn’t hurt one’s enemies. Malicious envy is the strongest predictor of support for coercive redistribution. Rich people want to hurt people richer than themselves.
 
-That's interesting because [202111281850- Health and Wealth](Notes/202111281850-%20Health%20and%20Wealth.md)
+That's interesting because [Health and Wealth](Health%20and%20Wealth.md)
 
 That reminds me
 

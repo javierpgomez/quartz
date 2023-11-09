@@ -27,4 +27,4 @@ Much like a Micro-MBA of sorts in the health and wellness field, it adds depth t
 Read more at: [Micro-Education Businesses: AI Assistants, Micro-Courses, Content-Format Fit - Trends.vc](https://trends.vc/micro-education-businesses-ai-assistants-micro-courses-content-format-fit/)
 
 Go one level up : [Education MOC](Education%20MOC)
-You may also be interested in: [202203181059 - Teaching benefits the teacher the most](Notes/202203181059%20-%20Teaching%20benefits%20the%20teacher%20the%20most.md)
+You may also be interested in: [Teaching benefits the teacher the most](Teaching%20benefits%20the%20teacher%20the%20most.md)

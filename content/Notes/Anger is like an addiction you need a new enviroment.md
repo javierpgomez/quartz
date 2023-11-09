@@ -21,5 +21,5 @@ The only way to break it is to change your environment
 It sounds almost like breaking an addiction, and you need support and a new environment to change.
 
 ### See also
-[[Notes/202205180947 - Social Media Hijacks Attention]]
+[[Social Media Hijacks Attention]]
 [[Notes/Unique Definition of Addiction]]

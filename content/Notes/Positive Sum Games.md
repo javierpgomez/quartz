@@ -15,5 +15,5 @@ As a coach, I'd like to be able to say that I've learned something from my clien
 Mutual benefit
 
 It's not just a one way transaction
-[[Notes/202203181101 - Market Norms vs Social Norms]]]]
+[[Market Norms vs Social Norms]]]]
 And making it a bit about social norms.

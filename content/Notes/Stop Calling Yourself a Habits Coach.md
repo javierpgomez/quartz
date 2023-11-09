@@ -1,5 +1,5 @@
 up:: [[Maps/Coaching MOC]]
-X:: [[Notes/2 maxims of coaching]]
+X:: [[The 2 Maxims of Coaching]]
 tags:: #coaching #habits #on/self-actualization 
 novelty:: 3
 

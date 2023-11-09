@@ -27,4 +27,4 @@ I understand this to mean that we need to choose to forgive- to will forgiveness
 Read more at: [The Faculty of Forgiving by Hannah Arendt](https://www.plough.com/en/topics/faith/devotional-reading/the-faculty-of-forgiving)
 
 Go one level up : [[Theology MOC]]
-You may also be interested in: [202207181927- The need for public forgiveness](Notes/202207181927-%20The%20need%20for%20public%20forgiveness.md)
+You may also be interested in: [The need for public forgiveness](The%20need%20for%20public%20forgiveness.md)

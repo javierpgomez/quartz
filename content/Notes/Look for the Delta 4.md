@@ -26,6 +26,6 @@ method was, most people would say maybe this is 78 on 10, that is maybe two on 1
 when human discover a delta 4, they can't stop talking about it
 
 ### See also
-[[Notes/202111281840- Technology as a Movement Saver]]
+[[Technology as a Movement Saver]]
 [[Notes/Convenience is almost always about moving less]]
 [[Notes/We're afraid to admit that we care about convenience]]

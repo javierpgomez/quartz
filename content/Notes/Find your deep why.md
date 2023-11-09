@@ -21,4 +21,4 @@ So that you can motivate yourself well
 
 ### See also
 
-[[Notes/202111281949- Deep Why]]
+[[Deep Why]]

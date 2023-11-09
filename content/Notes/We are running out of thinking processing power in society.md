@@ -24,5 +24,5 @@ preferred because it truly burns more energy uh an energy savings than human tra
 
 
 ### See also
-[[Notes/202205302052- The paradox of bias and being smart]]
+[[The paradox of bias and being smart]]
 [[Notes/Creative problem solving means suspending judgement]]

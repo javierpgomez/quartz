@@ -1,5 +1,5 @@
 up:: [[Nutrition MOC]]
-X:: [[Notes/202112091637- Weights make you slow]]
+X:: [[Weights make you slow]]
 tags:: #weights #on/muscle #exercise 
 novelty:: 4
 

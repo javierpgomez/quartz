@@ -1,5 +1,5 @@
 up:: [[Maps/Thinking MOC]]
-X:: [[Notes/202111281847- Not Unmotivated by Overwhelmed]]
+X:: [[Not Unmotivated by Overwhelmed]]
 tags:: #motivation #habits #on/to-dos
 novelty:: 4
 

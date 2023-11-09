@@ -18,5 +18,5 @@ Tweet url:
 The findings suggest that if a poor child grows up in a neighborhood where 70 percent of their friends are wealthy—the typical rate for higher-income children—then their future income would rise on average by 20 percent. This is roughly equivalent to the difference between having a high school diploma and a college degree.
 
 ### See also
-[[Notes/202203212054- Injury, learning, environment, social conditioning]]
-[[Notes/202202030902- Find a group where your desired culture exists]]
+[[Injury, learning, environment, social conditioning]]
+[[Find a group where your desired culture exists]]

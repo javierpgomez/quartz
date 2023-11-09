@@ -22,5 +22,5 @@ If they didn't have natural fitness ability, I got completely lost
 
 
 ### See also
-[[Notes/202111281952- Art of Cueing]]
+[[Art of Cueing]]
 [[Notes/Five Essential Movements]]

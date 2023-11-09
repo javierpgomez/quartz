@@ -23,4 +23,4 @@ The key takeaway? Don't underestimate the power of your environment. It's not ju
 Read more at: [X](https://twitter.com/george__mack/status/1350513148244217856)
 
 Go one level up : [Habits MOC](Maps/Habits%20MOC.md)
-You may also be interested in: [202112181555- imperfect motivation](Notes/202112181555-%20imperfect%20motivation.md)
+You may also be interested in: [imperfect motivation](imperfect%20motivation.md)

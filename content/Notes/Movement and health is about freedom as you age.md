@@ -19,5 +19,5 @@ When you're old, the goal is to be able to be independent. It's not about moveme
 
 
 ### See also
-[[Notes/202112081047- Health and Freedom]]
-[[Notes/202207200813- If you could give up half of your money now for health what would it be]]
+[[Health and Freedom]]
+[[If you could give up half of your money now for health what would it be]]

@@ -20,4 +20,4 @@ The core human game is to constantly improve our social status so that we improv
 This is why weddings are big in India
 
 ### See also
-[[Notes/202203212024- Using the gradient hypothesis to your advantage]]
+[[Using the gradient hypothesis to your advantage]]

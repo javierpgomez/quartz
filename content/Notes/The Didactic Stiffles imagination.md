@@ -20,4 +20,4 @@ Anything didactic stiffles imagination
 Engaging those poems, apparently, is our civil responsibility. It is no coincidence that artists who believe art should serve a function in society, the utilitarians, make works that are typically conformist, generic, and didactic. By fiat, they deny the imagination its mystery and irreverence. But the imagination, like the impact of any artwork, cannot be managed ([View Highlight](https://instapaper.com/read/1515116126/20067253))
 
 ### See also
-[[Notes/202112141619- Imagination as a social good]]
+[[Imagination as a social good]]

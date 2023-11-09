@@ -1,5 +1,5 @@
 up:: [[Maps/Entrepreneurship MOC]]
-X::  [[Notes/202112161330- My multidisciplinary story]]
+X::  [[My multidisciplinary story]]
 tags:: #on/multidiciplines #on/multipassion #on/interdisciplinary
 novelty:: 4
 

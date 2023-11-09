@@ -23,4 +23,4 @@ And then there's sitting. It might not seem like a big deal, but sitting for lon
 
 ### See also
 [[Notes/Writing, Fear, and Tightening (Blog draft)]]
-[[Notes/202111220800- The Health Flywheel]]
+[[The Health Flywheel]]

@@ -1,5 +1,5 @@
 up:: [[Maps/Physical Training MOC]]
-X:: [[Notes/202112181553- Movement Puzzles]]
+X:: [[Movement Puzzles]]
 tags:: #movement #on/physical-education 
 novelty:: 4
 

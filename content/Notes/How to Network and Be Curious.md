@@ -10,4 +10,4 @@ From now on, use every interaction as a chance to appreciate someone else by inv
 
 Read more at: [Don't Just Network — Build Your 'Meaningful Network' to Maximize Your Impact | First Round Review](https://review.firstround.com/dont-just-network-build-your-meaningful-network-to-maximize-your-impact)
 
-You may also be interested in: [[202112081041- Always Feeling Behind]]
+You may also be interested in: [[Always Feeling Behind]]

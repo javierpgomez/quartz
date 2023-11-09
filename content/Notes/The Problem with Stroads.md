@@ -1,5 +1,5 @@
 up:: [[Environment MOC]]
-X:: [[Notes/202208031103- Daily Inventory for movement 5 categories]]
+X:: [[Daily Inventory for movement 5 categories]]
 tags:: #on/transportation #on/urban-design #on/environment 
 novelty:: 8
 

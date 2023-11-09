@@ -17,4 +17,4 @@ Sometimes people just want to be told what to do. Freedom is hard! And [Learning
 Read more at: [Site Unreachable](https://www.scienceofpeople.com/motivational-interview-techniques/)
 
 Go one level up : [Coaching MOC](Maps/Coaching%20MOC.md)
-You may also be interested in: [2 maxims of coaching](Notes/2%20maxims%20of%20coaching.md)
+You may also be interested in: [[The 2 Maxims of Coaching]]

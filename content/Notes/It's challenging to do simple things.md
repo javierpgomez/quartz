@@ -25,5 +25,5 @@ But the truth is, doing small things is just as challenging as doing big things,
 
 ### See also
 [[Notes/Setting motivation For lifelong goals]]
-[[Notes/202111281950- Stretch Goals and Movement Goals]]
-[[Notes/202111281949- Deep Why]]
+[[Stretch Goals and Movement Goals]]
+[[Deep Why]]

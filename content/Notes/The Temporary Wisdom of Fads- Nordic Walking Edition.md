@@ -23,4 +23,4 @@ At the end of the day, fads aren't built to last, but their ephemeral nature doe
 Read more at: [Looking for a Full Body Workout? Try Nordic Walking](https://www.verywellhealth.com/nordic-walking-7555318)
 
 Go one level up : [Movement MOC](Maps/Movement%20MOC.md)
-You may also be interested in: [202201252134- Try Backward Walking](Notes/202201252134-%20Try%20Backward%20Walking.md)
+You may also be interested in: [Try Backward Walking](Try%20Backward%20Walking.md)

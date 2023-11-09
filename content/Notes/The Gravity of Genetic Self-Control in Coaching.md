@@ -20,4 +20,4 @@ Remember, fighting against one's inherent traits is as futile as fighting gravit
 Read more at: [How to help clients manage stress | Precision Nutrition](https://www.precisionnutrition.com/help-clients-manage-stress)
 
 Go one level up : [Health Coaching MOC](Maps/Health%20Coaching%20MOC.md)
-You may also be interested in: [202203181056 - Coaching Health is a positive sum game](Notes/202203181056%20-%20Coaching%20Health%20is%20a%20positive%20sum%20game.md)
+You may also be interested in: [Coaching Health is a positive sum game](Coaching%20Health%20is%20a%20positive%20sum%20game.md)

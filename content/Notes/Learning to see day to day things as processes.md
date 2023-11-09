@@ -23,4 +23,4 @@ Starting to notice that many tasks are processes in your daily life will help yo
 
 
 ### See also
-[[Notes/202111250917- Elements of health]]
+[[Elements of health]]

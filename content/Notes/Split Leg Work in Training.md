@@ -22,5 +22,5 @@ Not only is split work training more effective than other methods, it's also mor
 If you're looking to get the most out of your training, split work training is the way to go.
 
 ### See also
-[[Notes/202112181554- Neuromotor Training]]
+[[Neuromotor Training]]
 [[Notes/Alignment of values in training]]

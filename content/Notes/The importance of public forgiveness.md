@@ -20,4 +20,4 @@ but the denouement is a ceremony in which the families get together and perform 
 The only way for a community for survive is if it has public rituals for forgiveness
 
 ### See also
-[[Notes/202207181927- The need for public forgiveness]]
+[[The need for public forgiveness]]

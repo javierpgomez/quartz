@@ -24,5 +24,5 @@ It's important because we were made to move. And the more we move the more our b
 Read more at: [Tweet / Twitter](https://twitter.com/george__mack/status/1649835221309874177)
 
 Go one level up : [Health MOC](Maps/Health%20MOC.md)
-You may also be interested in: [202201252134- Try Backward Walking](Notes/202201252134-%20Try%20Backward%20Walking.md)
+You may also be interested in: [Try Backward Walking](Try%20Backward%20Walking.md)
 

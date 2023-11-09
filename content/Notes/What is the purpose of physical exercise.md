@@ -18,5 +18,5 @@ And then as we age — and I think this is particularly but not exclusively true
 
 
 ### See also
-[[Notes/202111290754- Health is a Spiritual Problem]]
-[[Notes/202111281850- Health and Wealth]]
+[[Health is a Spiritual Problem]]
+[[Health and Wealth]]

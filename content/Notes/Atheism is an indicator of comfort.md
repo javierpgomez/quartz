@@ -19,4 +19,4 @@ Atheism is an indicator of comfort.
 Simply put, if your life is good, you're more likely to be an atheist
 
 ### See also
-[[Notes/202111290754- Health is a Spiritual Problem]]
+[[Health is a Spiritual Problem]]

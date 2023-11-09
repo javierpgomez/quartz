@@ -25,4 +25,4 @@ Being the big fish in a small pond isn't about underestimating others but about 
 Read more at: [How to Make Smart Decisions Without Getting Lucky](https://fs.blog/smart-decisions/)
 
 Go one level up : [Personal Brand MOC](Maps/Personal%20Brand%20MOC.md)
-You may also be interested in: [202208011440- What makes me different](Notes/202208011440-%20What%20makes%20me%20different.md)
+You may also be interested in: [What makes me different](What%20makes%20me%20different.md)

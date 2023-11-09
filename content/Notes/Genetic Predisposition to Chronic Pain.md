@@ -1,5 +1,5 @@
 up:: [[Maps/Chronic Pain MOC]]
-X:: [[Notes/202207261804- My current experience with Chronic pain]]
+X:: [[My current experience with Chronic pain]]
 tags:: #on/chronic-pain #health #on/genetics
 novelty::
 

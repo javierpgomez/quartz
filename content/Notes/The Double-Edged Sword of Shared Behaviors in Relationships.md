@@ -23,4 +23,4 @@ So next time you engage in a shared 'bad habit', maybe pause and think: is this 
 
 Read more at: [Let’s Enjoy an Evening on the Couch? A Daily Life Investigation of Shared Problematic Behaviors in Three Couple Studies - Theresa Pauly, Janina Lüscher, Corina Berli, Christiane A. Hoppmann, Rachel A. Murphy, Maureen C. Ashe, Wolfgang Linden, Kenneth M. Madden, Denis Gerstorf, Urte Scholz, 2023](https://journals.sagepub.com/doi/full/10.1177/01461672221143783?ref=vital)
 
-You may also be interested in: [[202203181056 - Coaching Health is a positive sum game]]
+You may also be interested in: [[Coaching Health is a positive sum game]]

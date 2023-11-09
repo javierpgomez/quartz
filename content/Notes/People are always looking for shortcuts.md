@@ -18,7 +18,7 @@ For some people, they're always looking for shortcuts. Some kind of quick fix to
 ## Dive Deeper with these notes (deeper into this)
 		
 ## Related to (go sideways- parallel ideas)
-[[Notes/202112091649- Movement is Medicine]]
+[[Movement is Medicine]]
 
 ## Source
 url: https://twitter.com/JoeVennare/status/1573359029518319618?s=20&t=y-nRWchgz1WCU9WsMM2OFQ

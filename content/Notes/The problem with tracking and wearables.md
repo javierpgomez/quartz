@@ -17,6 +17,6 @@ Tweet url:
 The gear and the watches and the apps and social media and body hacking bs also encourage and amplify this behavior (save the watches that try and force you to rest) — it's like all the worst impulses of rapid growth capitalism *but turned inward on your body*
 
 ### See also
-[[Notes/202201131556- When everyone else has tech]]
+[[When everyone else has tech]]
 [[Notes/Tracking Sleep]]
 [[Notes/How to balance measureables and actual healthcare]]

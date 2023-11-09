@@ -23,5 +23,5 @@ I can link this to [[Notes/Chronic Pain]] and why it's easy for pain to stick
 
 ### See also
 [[Notes/Shift your frame of reference to adapt your behavior]]
-[[Notes/202112181550- hawthorne effect]]
+[[hawthorne effect]]
 

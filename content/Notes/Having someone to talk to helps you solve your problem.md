@@ -20,4 +20,4 @@ I often think of the story from The Pragmatic Programmer about a developer who w
 Having someone to talk to helps you solve your problem
 
 ### See also
-[[Notes/Creative problem problem sovling is like improv]]
+[[Creative problem problem solving is like improv]]

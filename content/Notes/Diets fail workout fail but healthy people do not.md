@@ -24,4 +24,4 @@ So if you're playing the long game
 You cannot fail
 
 ### See also
-[[Notes/202111281850- Health and Wealth]]
+[[Health and Wealth]]

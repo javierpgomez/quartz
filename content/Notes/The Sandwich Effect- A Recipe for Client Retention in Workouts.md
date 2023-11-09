@@ -22,4 +22,4 @@ The 'Sandwich Effect' is a nifty way to leverage behavioral psychology to improv
 
 Read more at: [5-Reps: Improved Programming, sandwiches, and doing less](https://www.theptdc.com/articles/5-reps-Jan-20-2023)
 
-You may also be interested in: [[202112181555- imperfect motivation]]
+You may also be interested in: [[imperfect motivation]]

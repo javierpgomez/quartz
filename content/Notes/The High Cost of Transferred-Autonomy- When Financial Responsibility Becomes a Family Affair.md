@@ -20,4 +20,4 @@ So, money might fuel our personal ambitions, but its role drastically shifts whe
 
 Read more at: [The Levers That Money Can’t Pull](https://moretothat.com/the-levers-that-money-cant-pull/)
 
-You may also be interested in: [[202112081047- Health and Freedom]]
+You may also be interested in: [[Health and Freedom]]

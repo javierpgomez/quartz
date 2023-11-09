@@ -26,4 +26,4 @@ You get stuck on certain rules of eating. And that may work for you now. But you
 
 
 ### See also
-[[Notes/202111212045- Conscious Health Creation]]
+[[Conscious Health Creation]]

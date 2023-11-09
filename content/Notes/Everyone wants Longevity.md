@@ -31,4 +31,4 @@ It's important because we want to balance future returns with present gains. And
 Read more at: [Longevity Tops List of Reasons to Work Out | Fitt Insider](https://insider.fitt.co/longevity-tops-list-of-reasons-to-work-out/)
 
 Go one level up : [Health MOC](Maps/Health%20MOC.md)
-You may also be interested in: [202205230926- The Centenarian Decathlon](Notes/202205230926-%20The%20Centenarian%20Decathlon.md)
+You may also be interested in: [The Centenarian Decathlon](The%20Centenarian%20Decathlon.md)

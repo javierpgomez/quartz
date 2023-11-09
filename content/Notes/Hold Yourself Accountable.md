@@ -1,5 +1,5 @@
 up:: [[Maps/Health MOC]]
-X:: [[Notes/202112181550- hawthorne effect]]
+X:: [[hawthorne effect]]
 tags:: #on/accountability #habits 
 novelty::
 

@@ -23,4 +23,4 @@ do stupid things with their reputation or their trust with people or all of that
 
 ### See also
 [[Notes/How do we know who to trust]]
-[[Notes/202204042047- Trust human, not algorithms]]
+[[Trust human, not algorithms]]

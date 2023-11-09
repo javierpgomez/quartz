@@ -24,5 +24,5 @@ Or let me put it this way, let's say I could really invent a pill that can make 
 
 
 ### See also
-[[Notes/202111281949- Deep Why]]
+[[Deep Why]]
 [[Notes/Setting motivation For lifelong goals]]

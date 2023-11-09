@@ -23,4 +23,4 @@ That's what exercise is like
 
 
 ### See also
-[[Notes/202208031043- Exercise is like Dietary supplements]]
+[[Exercise is like Dietary supplements]]

@@ -18,4 +18,4 @@ A blend of internal accountability, external support, and consistent action seem
 
 Read more at: [How I Lost 65 Pounds In 18 Months Without Any Fad Diets or Gimmicks | by Mark Suster | Both Sides of the Table](https://bothsidesofthetable.com/how-i-lost-65-pounds-in-18-months-without-any-fad-diets-or-gimmicks-72a262f29f9c)
 
-You may also be interested in: [[202206012058- Accountability is key to good habits]]
+You may also be interested in: [[Accountability is key to good habits]]
