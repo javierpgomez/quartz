@@ -1,9 +1,8 @@
 ---
-title: "On Creativity by Rick Rubin"
+title: On Creativity by Rick Rubin
 tags:
-- " thinking "
-- " intuition "
-novelty: 7
+  - thinking
+  - intuition
 ---
 
 Here's the quote from Rick Rubin:
