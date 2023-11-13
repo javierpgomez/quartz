@@ -4,18 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "baabeed3a5a102a5",
+        "id": "64bd45b47462d0a9",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b064cabd18049",
+            "id": "d437a34ca83701fe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/The Art of Intellectual Agility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3838378d3ddd65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Crafting Stories that Convey Value in Presentations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "730ef391b6c415b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Understanding the Reward Circuitry in the Quest for Addiction Solutions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d11e292b4daa4b1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Unleashing the Full Potential of ChatGPT in Coaching and Entrepreneurship.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "motivation",
+                "query": "gpt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Unleashing the Full Potential of ChatGPT in Coaching and Entrepreneurship.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Unleashing the Full Potential of ChatGPT in Coaching and Entrepreneurship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/Unleashing the Full Potential of ChatGPT in Coaching and Entrepreneurship.md"
+              }
             }
           },
           {
@@ -142,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,34 +200,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92b064cabd18049",
+  "active": "7d4496353b926003",
   "lastOpenFiles": [
+    "Notes/Understanding the Reward Circuitry in the Quest for Addiction Solutions.md",
+    "Notes/Unleashing the Full Potential of ChatGPT in Coaching and Entrepreneurship.md",
+    "Notes/Crafting Stories that Convey Value in Presentations.md",
+    "Notes/The Art of Intellectual Agility.md",
+    "Notes/Maximizing Connections Through Mastery of Email Marketing.md",
+    "Notes/Navigating the Crossroads of Technology and Human Choice.md",
+    "Notes/Homogenization of Global Aesthetic- The Paradox of Seeking the Unique in the Uniform.md",
+    "Notes/The Subtleties of Social Signaling- Beyond the Price Tag.md",
+    "Notes/Market Mastery- The Core of Business Triumph.md",
+    "Notes/The Silent Wealth Paradigm.md",
+    "Notes/From Market Hype to Reality Check- The Illusion of ‘Tech’ in Traditional Models.md",
+    "Notes/Harnessing Emotion to Elevate Large Language Models.md",
+    "Notes/Crafting a Personal Dopamine Strategy.md",
+    "Notes/The Paradox of the Internet's Navigation Giants.md",
+    "Notes/Crafting a Digital Beacon for the Like-minded.md",
+    "Notes/The Paradox of Pursuit- Happiness vs. Memory.md",
+    "Notes/Mindfulness as a Catalyst for Heart-Health.md",
+    "Notes/Knowledge and the Significance of Existence.md",
+    "Notes/The Essence of Marketing Wisdom.md",
+    "Notes/What Happens to Your Brain as You Age.md",
+    "Notes/Systems Informed Positive Psychology.md",
+    "Notes/The Principle of a Minimum Effective Workout (Blog Post).md",
+    "Notes/3 ways to think not in absolutes.md",
     "Notes/The Serendipity of Asking.md",
     "Notes/The Art of Patient Creation.md",
     "Notes/Meditation as a Creative Keystone.md",
-    "Notes/On Creativity by Rick Rubin.md",
-    "Notes/The Fundamentals of Excellence.md",
-    "Notes/The Art of Sustainable Health Practices.md",
-    "Notes/The Perpetual Cycle of Motivation.md",
-    "Notes/Activity as a Lifespan Elixir.md",
-    "Notes/The Honesty Paradox in Self-Progression.md",
-    "Notes/The Coaching Revolution.md",
-    "Notes/Navigating the Supplement Haze.md",
-    "Notes/Living Beyond the Screen- Embracing Imperfection.md",
-    "Notes/Unearthing Nutrient Wealth in Nature.md",
-    "Notes/Leveraging Movement as Medicine.md",
-    "Notes/How to make things look effortless.md",
-    "Notes/Harnessing Positional Advantage Over Sheer Effort.md",
-    "Notes/Preparing Your Body Before the Trail.md",
-    "Notes/The trick is not to rely on willpower but on enviroment.md",
-    "Notes/My favorite 'hack' when I'm hiking and traveling.md",
-    "Notes/Houseplants as Natural Disinfectants.md",
-    "Notes/Embracing Dietary Variety- The Power of Mushrooms Against Cancer.md",
-    "Notes/The Counterintuitive Nature of Problem-Solving- Lessons from the Road.md",
-    "Notes/Creative problem problem solving is like improv.md",
-    "Notes/Subcultures and the Dynamics of Participation.md",
-    "Notes/The Essence of Taste as Moral Attention.md",
-    "Notes/Social Media Hijacks Attention.md",
     "Notes2",
     "Templates",
     "Hide",

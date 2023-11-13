@@ -1,11 +1,12 @@
-topic: [202201101819- 3 ways to think not in absolutes](.md)
-alias: 
-tags: #permanent-note
-url: 
 ---
-
-# My writing (250-300 words)
-
+title: 3 ways to think not in absolutes
+tags:
+  - workout
+  - healht-mindsets
+  - gray
+  - either-or
+  - both-and
+---
 Here are 3 ways to 'think gray'
 
 1. Give yourself a menu of different options
@@ -39,11 +40,8 @@ But my 80%ers? They stick around- they know that missing one day is not the end 
 
 They don't drop off because they're not perfect
 
----
-## Continue to these notes (next)
-		
-## Dive Deeper with these notes (deeper into this)
-		
-## Related to (go sideways- parallel ideas)
-	
-## Source
+----
+
+Read more at: URL
+
+You may also be interested in: [[The Principle of a Minimum Effective Workout (Blog Post)]]
