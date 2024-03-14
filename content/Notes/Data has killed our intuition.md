@@ -1,9 +1,8 @@
 ---
 title: " Data has killed our intuition "
 tags:
-- " data "
-- " learning "
-novelty: 4
+  - data
+  - learning
 ---
 
 Today no one can make a decision without consulting data.

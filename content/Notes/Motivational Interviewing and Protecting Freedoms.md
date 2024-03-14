@@ -6,7 +6,11 @@ tags:
   - freedom
   - decision-making
 ---
-**Avoid imposing advice or solutions**. Instead, guide them toward their own preferences and options. For example, if you want to help an employee overcome burnout by rekindling their motivation, you could say, “I know you are a creative person. In what ways could more creative or artistic assignments help you feel more excited about your role?”
+**Avoid imposing advice or solutions**. 
+
+Instead, guide them toward their own preferences and options. 
+
+For example, if you want to help an employee overcome burnout by rekindling their motivation, you could say, “I know you are a creative person. In what ways could more creative or artistic assignments help you feel more excited about your role?”
 
 It's better to give options. Though I think you should read the room.
 
