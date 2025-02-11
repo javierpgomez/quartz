@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c44fb40ee13b3d0a",
+        "id": "0d19813f532a1cca",
         "type": "tabs",
         "children": [
           {
-            "id": "b47aabcaa0ea164b",
+            "id": "7b53f1e117c22ba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Motivational Interviewing and Protecting Freedoms.md",
+                "file": "Notes/Properties of play (concept).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Properties of play (concept)"
             }
           }
         ]
@@ -38,42 +40,52 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "7d4496353b926003",
+            "id": "f379797ac08d9d08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5a58f3c4c64516c4",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "bfc35676a3f95112",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "play is purposeless",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "380787690f2c8c16",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c7ef1d0985d07f0",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Motivational Interviewing and Protecting Freedoms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -110,10 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Motivational Interviewing and Protecting Freedoms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -132,9 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Motivational Interviewing and Protecting Freedoms.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -142,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -162,34 +180,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b47aabcaa0ea164b",
+  "active": "7b53f1e117c22ba9",
   "lastOpenFiles": [
-    "Notes/Mise-en-place.md",
-    "Notes/Mental Squeeze Point.md",
-    "Notes/metafitness.md",
-    "Notes/Meeting with Rhoel and Kits.md",
-    "Notes/Mass man and spiritual barbarism.md",
-    "Notes/Market Norms vs Social Norms.md",
-    "Notes/Make lists perhaps.md",
-    "Notes/Luxury Beliefs and attachment.md",
-    "Notes/Looking at amazon reviews for health journals.md",
-    "Notes/Locked in a car stuck on the train tracks (image).md",
-    "Notes/Lindy Effect.md",
-    "Notes/Life Command ⌘.md",
-    "Notes/Lichens is to biology.md",
-    "Notes/Leveraging Public Building as a Marketing Strategy.md",
-    "Notes/Life Management.md",
-    "Notes/Leveraging Client Success for Business Growth and Personal Empowerment.md",
-    "Notes/Leverage Points- Places to Intervene in a System.md",
-    "Notes/Maximizing Metabolic Efficiency with Exercise Snacks.md",
-    "Notes/The Principle of a Minimum Effective Workout (Blog Post).md",
-    "Notes/Hacking Your Environment to Master Motivation.md",
-    "Notes/What to do if you're afraid to exercise again.md",
-    "Notes/Online communities, courses, and programs.md",
-    "Notes/Harnessing the Power of Consistency- A Path to Transformation.md",
-    "Notes/The Pragmatic Power of Optimism- A Strategy for Success.md",
-    "Notes/Embracing Change- Moving Beyond the Self-Consistency Fallacy.md",
-    "Notes/The Art of Sustainable Weight Loss- Insights from a Personal Journey 1.md",
+    "Notes/Play Involves Risk.md",
+    "Notes/Quote on Play.md",
+    "Notes/Play Quote.md",
+    "Notes/Play (Book Outline).md",
+    "Notes/4 vagus nerve exercises to transform how you handle stress.md",
+    "Notes/Properties of play (concept).md",
+    "index.md",
+    "Notes/My experience of play.md",
+    "Notes/Food production plays a factor.md",
+    "Notes/Free play and structured play in children.md",
+    "Notes/Don't make play work.md",
+    "Notes/Berdeng Kalabaw.md",
+    "Notes/Confirmation Bias.md",
+    "Notes/Try Googling the Opposite.md",
+    "Notes/Being curious to shift your frame of references.md",
+    "Notes/Masterly Inactivity in the Garden.md",
+    "Notes/Strong opinions, weakly held.md",
+    "Notes/Other ways to alleviate fear.md",
+    "Notes/Learning to Pay Attention.md",
+    "Notes/Important habits preserve mental clarity and a sense of control.md",
+    "Notes/I thirst.md",
+    "Notes/How Muscles Work.md",
+    "Notes/Guiding Values of PKM.md",
+    "Notes/Fear as a Perspective Problem.md",
+    "Notes/Facing Your Fears-- Especially of what you can't do.md",
+    "Notes/Deep Health Workshop (Talk).md",
     "Notes2",
     "Templates",
     "Hide",
